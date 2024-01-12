@@ -36,7 +36,7 @@
     "jimp": "^0.22.10",
     "node-tesseract-ocr": "^2.2.1",
     "python-shell": "^5.0.0",
-    "sharp": "^0.32.6",
+    "sharp": "^0.33.2",
     "tesseract.js": "^2.1.1"
   }
 }
